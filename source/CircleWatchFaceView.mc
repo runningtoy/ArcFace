@@ -8,15 +8,17 @@ using Toybox.ActivityMonitor;
 import Toybox.Position;
 using Toybox.Time.Gregorian;
 
+//https://developer.garmin.com/connect-iq/reference-guides/devices-reference/
+
 
 
 var width, height, shape, device, screenRadius;
 
-var COLOR_BATTERY = Graphics.COLOR_GREEN;
-var COLOR_BATTERY_LOW = Graphics.COLOR_RED;
-var COLOR_STEPS = Graphics.COLOR_BLUE;
-var COLOR_FLOORS = Graphics.COLOR_PINK;
-var COLOR_RECOVERYTIME = Graphics.COLOR_PINK;
+var COLOR_BATTERY = 0x00ff55;
+var COLOR_BATTERY_LOW = 0xff5500;
+var COLOR_STEPS = 0xaa00ff;
+var COLOR_FLOORS = 0xff55aa;
+var COLOR_RECOVERYTIME = 0xffff00;
 
 
 class CircleWatchFaceView extends WatchUi.WatchFace {
