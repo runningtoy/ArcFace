@@ -8,7 +8,6 @@ using Toybox.ActivityMonitor;
 import Toybox.Position;
 using Toybox.Time.Gregorian;
 
-//https://github.com/haraldh/SunCalc/blob/master/source/SunCalc.mc
 
 
 var width, height, shape, device, screenRadius;
