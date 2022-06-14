@@ -1,0 +1,17 @@
+<layout id="WatchFace">
+    <bitmap id="HRImage" x="36%" y="18%" filename="../images/heart.png" dithering="none" >
+       <palette disableTransparency="false">
+           <color>E3000E</color>
+       </palette>
+    </bitmap>
+    <bitmap id="BLE" x="center" y="7%" filename="../images/bluetooth.png" dithering="none" >
+       <palette disableTransparency="false">
+           <color>888888</color>
+       </palette>
+    </bitmap>
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="DateLabel" x="center" y="25%" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="SecLabel" x="center" y="62%" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="SunRiseSet" x="center" y="78%" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
+    <label id="HRLabel" x="center" y="15%" font="Graphics.FONT_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_LT_GRAY" />
+</layout>

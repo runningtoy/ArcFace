@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\Georg Mihatsch\Documents\GarminDevelopment\CircleWatchFace\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="1" lineNum="19" parent="globals/CircleWatchFaceView" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="1" lineNum="20" parent="globals/CircleWatchFaceView" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="24" parent="globals/CircleWatchFaceView" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="25" parent="globals/CircleWatchFaceView" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="27" parent="globals/CircleWatchFaceView" pc="268435520" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="28" parent="globals/CircleWatchFaceView" pc="268435543" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="29" parent="globals/CircleWatchFaceView" pc="268435562" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="30" parent="globals/CircleWatchFaceView" pc="268435581" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="2" lineNum="32" parent="globals/CircleWatchFaceView" pc="268435603" symbol="onLayout"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="3" lineNum="38" parent="globals/CircleWatchFaceView" pc="268435626" symbol="onShow"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="4" lineNum="41" parent="globals/CircleWatchFaceView" pc="268435631" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="4" lineNum="42" parent="globals/CircleWatchFaceView" pc="268435635" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="4" lineNum="49" parent="globals/CircleWatchFaceView" pc="268435652" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="4" lineNum="50" parent="globals/CircleWatchFaceView" pc="268435676" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="54" parent="globals/CircleWatchFaceView" pc="268435711" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="65" parent="globals/CircleWatchFaceView" pc="268435715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="66" parent="globals/CircleWatchFaceView" pc="268435751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="67" parent="globals/CircleWatchFaceView" pc="268435763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="69" parent="globals/CircleWatchFaceView" pc="268435799" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="70" parent="globals/CircleWatchFaceView" pc="268435816" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="71" parent="globals/CircleWatchFaceView" pc="268435890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="72" parent="globals/CircleWatchFaceView" pc="268435914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="75" parent="globals/CircleWatchFaceView" pc="268435928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="77" parent="globals/CircleWatchFaceView" pc="268435940" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="78" parent="globals/CircleWatchFaceView" pc="268435964" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="80" parent="globals/CircleWatchFaceView" pc="268436091" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="81" parent="globals/CircleWatchFaceView" pc="268436115" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="85" parent="globals/CircleWatchFaceView" pc="268436149" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="87" parent="globals/CircleWatchFaceView" pc="268436169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="88" parent="globals/CircleWatchFaceView" pc="268436183" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="89" parent="globals/CircleWatchFaceView" pc="268436197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="90" parent="globals/CircleWatchFaceView" pc="268436211" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="5" lineNum="91" parent="globals/CircleWatchFaceView" pc="268436225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="6" lineNum="98" parent="globals/CircleWatchFaceView" pc="268436240" symbol="onHide"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="7" lineNum="102" parent="globals/CircleWatchFaceView" pc="268436245" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="8" lineNum="106" parent="globals/CircleWatchFaceView" pc="268436250" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="109" parent="globals/CircleWatchFaceView" pc="268436255" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="110" parent="globals/CircleWatchFaceView" pc="268436259" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="111" parent="globals/CircleWatchFaceView" pc="268436266" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="112" parent="globals/CircleWatchFaceView" pc="268436285" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="113" parent="globals/CircleWatchFaceView" pc="268436299" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="114" parent="globals/CircleWatchFaceView" pc="268436310" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="115" parent="globals/CircleWatchFaceView" pc="268436332" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="116" parent="globals/CircleWatchFaceView" pc="268436358" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="117" parent="globals/CircleWatchFaceView" pc="268436425" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="119" parent="globals/CircleWatchFaceView" pc="268436486" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="120" parent="globals/CircleWatchFaceView" pc="268436514" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="121" parent="globals/CircleWatchFaceView" pc="268436581" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="123" parent="globals/CircleWatchFaceView" pc="268436642" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="124" parent="globals/CircleWatchFaceView" pc="268436670" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="125" parent="globals/CircleWatchFaceView" pc="268436737" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="127" parent="globals/CircleWatchFaceView" pc="268436798" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="128" parent="globals/CircleWatchFaceView" pc="268436826" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="129" parent="globals/CircleWatchFaceView" pc="268436893" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="131" parent="globals/CircleWatchFaceView" pc="268436954" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="132" parent="globals/CircleWatchFaceView" pc="268436982" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="133" parent="globals/CircleWatchFaceView" pc="268437049" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="137" parent="globals/CircleWatchFaceView" pc="268437113" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="138" parent="globals/CircleWatchFaceView" pc="268437135" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="139" parent="globals/CircleWatchFaceView" pc="268437161" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="141" parent="globals/CircleWatchFaceView" pc="268437228" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="142" parent="globals/CircleWatchFaceView" pc="268437256" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="144" parent="globals/CircleWatchFaceView" pc="268437323" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="145" parent="globals/CircleWatchFaceView" pc="268437351" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="147" parent="globals/CircleWatchFaceView" pc="268437412" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="148" parent="globals/CircleWatchFaceView" pc="268437440" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="150" parent="globals/CircleWatchFaceView" pc="268437507" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="9" lineNum="151" parent="globals/CircleWatchFaceView" pc="268437535" symbol="drawWatchARC"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="157" parent="globals/CircleWatchFaceView" pc="268437603" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="158" parent="globals/CircleWatchFaceView" pc="268437607" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="160" parent="globals/CircleWatchFaceView" pc="268437630" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="160" parent="globals/CircleWatchFaceView" pc="268437641" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="161" parent="globals/CircleWatchFaceView" pc="268437651" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="161" parent="globals/CircleWatchFaceView" pc="268437662" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="10" lineNum="164" parent="globals/CircleWatchFaceView" pc="268437672" symbol="drawBattery"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="169" parent="globals/CircleWatchFaceView" pc="268437718" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="170" parent="globals/CircleWatchFaceView" pc="268437722" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="171" parent="globals/CircleWatchFaceView" pc="268437722" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="172" parent="globals/CircleWatchFaceView" pc="268437739" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="173" parent="globals/CircleWatchFaceView" pc="268437758" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="174" parent="globals/CircleWatchFaceView" pc="268437777" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="175" parent="globals/CircleWatchFaceView" pc="268437784" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="176" parent="globals/CircleWatchFaceView" pc="268437794" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="176" parent="globals/CircleWatchFaceView" pc="268437805" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="177" parent="globals/CircleWatchFaceView" pc="268437815" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="177" parent="globals/CircleWatchFaceView" pc="268437826" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="11" lineNum="178" parent="globals/CircleWatchFaceView" pc="268437836" symbol="drawStep"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="183" parent="globals/CircleWatchFaceView" pc="268437882" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="184" parent="globals/CircleWatchFaceView" pc="268437886" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="185" parent="globals/CircleWatchFaceView" pc="268437886" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="186" parent="globals/CircleWatchFaceView" pc="268437903" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="187" parent="globals/CircleWatchFaceView" pc="268437922" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="188" parent="globals/CircleWatchFaceView" pc="268437941" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="189" parent="globals/CircleWatchFaceView" pc="268437948" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="190" parent="globals/CircleWatchFaceView" pc="268437958" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="190" parent="globals/CircleWatchFaceView" pc="268437969" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="191" parent="globals/CircleWatchFaceView" pc="268437979" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="191" parent="globals/CircleWatchFaceView" pc="268437990" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="12" lineNum="192" parent="globals/CircleWatchFaceView" pc="268438000" symbol="drawFloor"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="13" lineNum="196" parent="globals/CircleWatchFaceView" pc="268438046" symbol="drawBluetooth"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="13" lineNum="197" parent="globals/CircleWatchFaceView" pc="268438050" symbol="drawBluetooth"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="13" lineNum="198" parent="globals/CircleWatchFaceView" pc="268438074" symbol="drawBluetooth"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="201" parent="globals/CircleWatchFaceView" pc="268438116" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="203" parent="globals/CircleWatchFaceView" pc="268438120" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="204" parent="globals/CircleWatchFaceView" pc="268438145" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="206" parent="globals/CircleWatchFaceView" pc="268438168" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="207" parent="globals/CircleWatchFaceView" pc="268438187" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="208" parent="globals/CircleWatchFaceView" pc="268438317" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="210" parent="globals/CircleWatchFaceView" pc="268438322" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="211" parent="globals/CircleWatchFaceView" pc="268438362" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="212" parent="globals/CircleWatchFaceView" pc="268438402" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="213" parent="globals/CircleWatchFaceView" pc="268438405" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="214" parent="globals/CircleWatchFaceView" pc="268438436" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="215" parent="globals/CircleWatchFaceView" pc="268438465" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="220" parent="globals/CircleWatchFaceView" pc="268438499" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="221" parent="globals/CircleWatchFaceView" pc="268438573" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="14" lineNum="222" parent="globals/CircleWatchFaceView" pc="268438597" symbol="drawSunriseSunset"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="228" parent="globals/CircleWatchFaceView" pc="268438618" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="229" parent="globals/CircleWatchFaceView" pc="268438622" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="230" parent="globals/CircleWatchFaceView" pc="268438629" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="231" parent="globals/CircleWatchFaceView" pc="268438644" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="232" parent="globals/CircleWatchFaceView" pc="268438669" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="233" parent="globals/CircleWatchFaceView" pc="268438693" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="234" parent="globals/CircleWatchFaceView" pc="268438700" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="235" parent="globals/CircleWatchFaceView" pc="268438714" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="236" parent="globals/CircleWatchFaceView" pc="268438738" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="237" parent="globals/CircleWatchFaceView" pc="268438766" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="240" parent="globals/CircleWatchFaceView" pc="268438783" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="241" parent="globals/CircleWatchFaceView" pc="268438797" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="15" lineNum="242" parent="globals/CircleWatchFaceView" pc="268438821" symbol="drawHR"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="16" lineNum="17" parent="globals/CircleWatchFaceView" pc="268441778" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceView.mc" id="16" lineNum="17" parent="globals/CircleWatchFaceView" pc="268441778" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="18" lineNum="7" parent="globals/CircleWatchFaceApp" pc="268438839" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="18" lineNum="8" parent="globals/CircleWatchFaceApp" pc="268438843" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="19" lineNum="12" parent="globals/CircleWatchFaceApp" pc="268438862" symbol="onStart"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="20" lineNum="16" parent="globals/CircleWatchFaceApp" pc="268438867" symbol="onStop"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="21" lineNum="20" parent="globals/CircleWatchFaceApp" pc="268438872" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="21" lineNum="21" parent="globals/CircleWatchFaceApp" pc="268438876" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="22" lineNum="5" parent="globals/CircleWatchFaceApp" pc="268441759" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="22" lineNum="5" parent="globals/CircleWatchFaceApp" pc="268441759" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="23" lineNum="26" parent="globals" pc="268438914" symbol="getApp"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\CircleWatchFaceApp.mc" id="23" lineNum="27" parent="globals" pc="268438926" symbol="getApp"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="25" lineNum="57" parent="globals/SunCalc" pc="268438943" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="25" lineNum="58" parent="globals/SunCalc" pc="268438947" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="25" lineNum="59" parent="globals/SunCalc" pc="268438956" symbol="initialize"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="26" lineNum="62" parent="globals/SunCalc" pc="268438966" symbol="fromJulian"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="26" lineNum="63" parent="globals/SunCalc" pc="268438970" symbol="fromJulian"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="27" lineNum="66" parent="globals/SunCalc" pc="268439024" symbol="round"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="27" lineNum="67" parent="globals/SunCalc" pc="268439028" symbol="round"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="27" lineNum="68" parent="globals/SunCalc" pc="268439039" symbol="round"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="27" lineNum="70" parent="globals/SunCalc" pc="268439069" symbol="round"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="75" parent="globals/SunCalc" pc="268439097" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="76" parent="globals/SunCalc" pc="268439101" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="77" parent="globals/SunCalc" pc="268439111" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="79" parent="globals/SunCalc" pc="268439121" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="80" parent="globals/SunCalc" pc="268439176" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="81" parent="globals/SunCalc" pc="268439207" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="83" parent="globals/SunCalc" pc="268439249" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="84" parent="globals/SunCalc" pc="268439292" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="85" parent="globals/SunCalc" pc="268439320" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="86" parent="globals/SunCalc" pc="268439351" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="87" parent="globals/SunCalc" pc="268439454" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="88" parent="globals/SunCalc" pc="268439494" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="89" parent="globals/SunCalc" pc="268439531" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="90" parent="globals/SunCalc" pc="268439583" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="91" parent="globals/SunCalc" pc="268439638" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="92" parent="globals/SunCalc" pc="268439648" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="95" parent="globals/SunCalc" pc="268439661" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="96" parent="globals/SunCalc" pc="268439675" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="99" parent="globals/SunCalc" pc="268439698" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="101" parent="globals/SunCalc" pc="268439810" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="102" parent="globals/SunCalc" pc="268439835" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="105" parent="globals/SunCalc" pc="268439840" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="107" parent="globals/SunCalc" pc="268439895" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="108" parent="globals/SunCalc" pc="268439938" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="109" parent="globals/SunCalc" pc="268439952" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="112" parent="globals/SunCalc" pc="268439969" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="28" lineNum="114" parent="globals/SunCalc" pc="268439991" symbol="calculate"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="117" parent="globals/SunCalc" pc="268440006" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="119" parent="globals/SunCalc" pc="268440010" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="120" parent="globals/SunCalc" pc="268440017" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="123" parent="globals/SunCalc" pc="268440026" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="124" parent="globals/SunCalc" pc="268440104" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="125" parent="globals/SunCalc" pc="268440104" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="126" parent="globals/SunCalc" pc="268440109" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="128" parent="globals/SunCalc" pc="268440165" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="129" parent="globals/SunCalc" pc="268440181" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="130" parent="globals/SunCalc" pc="268440192" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="132" parent="globals/SunCalc" pc="268440202" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="134" parent="globals/SunCalc" pc="268440249" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="135" parent="globals/SunCalc" pc="268440286" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="137" parent="globals/SunCalc" pc="268440299" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="140" parent="globals/SunCalc" pc="268440309" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="141" parent="globals/SunCalc" pc="268440326" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="143" parent="globals/SunCalc" pc="268440379" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="144" parent="globals/SunCalc" pc="268440405" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="145" parent="globals/SunCalc" pc="268440416" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="148" parent="globals/SunCalc" pc="268440435" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="149" parent="globals/SunCalc" pc="268440445" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="29" lineNum="151" parent="globals/SunCalc" pc="268440458" symbol="momentToString"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="30" lineNum="154" parent="globals/SunCalc" pc="268440462" symbol="printMoment"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="30" lineNum="155" parent="globals/SunCalc" pc="268440466" symbol="printMoment"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="30" lineNum="156" parent="globals/SunCalc" pc="268440503" symbol="printMoment"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="31" lineNum="28" parent="globals/SunCalc" pc="268441797" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="31" lineNum="29" parent="globals/SunCalc" pc="268441817" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="31" lineNum="30" parent="globals/SunCalc" pc="268441843" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="31" lineNum="31" parent="globals/SunCalc" pc="268441869" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="31" lineNum="36" parent="globals/SunCalc" pc="268441895" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="32" lineNum="26" parent="globals/SunCalc/statics" pc="268442227" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Georg Mihatsch\\Documents\\GarminDevelopment\\CircleWatchFace\\source\\SunCalc.mc" id="32" lineNum="26" parent="globals/SunCalc" pc="268441797" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="34" lineNum="2" parent="globals/Rez/Drawables" pc="268441753" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="8" parent="globals/Rez/Fonts" pc="268441755" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="36" lineNum="10" parent="globals/Rez/JsonData" pc="268441757" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="19" parent="globals/Rez/Layouts" pc="268440667" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="21" parent="globals/Rez/Layouts" pc="268440679" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="22" parent="globals/Rez/Layouts" pc="268440784" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="23" parent="globals/Rez/Layouts" pc="268440806" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="24" parent="globals/Rez/Layouts" pc="268440918" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="25" parent="globals/Rez/Layouts" pc="268440955" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="26" parent="globals/Rez/Layouts" pc="268441118" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="27" parent="globals/Rez/Layouts" pc="268441251" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="28" parent="globals/Rez/Layouts" pc="268441384" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="29" parent="globals/Rez/Layouts" pc="268441517" symbol="WatchFace"/>
+<entry filename="Rez" id="37" lineNum="31" parent="globals/Rez/Layouts" pc="268441650" symbol="WatchFace"/>
+<entry filename="Rez" id="38" lineNum="12" parent="globals/Rez/Layouts" pc="268441756" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="39" lineNum="36" parent="globals/Rez/Menus" pc="268441754" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="40" lineNum="38" parent="globals/Rez/Strings" pc="268441758" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="41" lineNum="1" parent="globals/Rez" pc="268441729" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="41" lineNum="1" parent="globals/Rez" pc="268441729" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="41" method="true" symbol="drawFloor"/>
+<entry id="14" object="true" symbol="CircleWatchFaceApp"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="46" symbol="PI2"/>
+<entry field="true" id="23" symbol="GOLDEN_HOUR_PM"/>
+<entry field="true" id="10" symbol="shape"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry field="true" id="12" symbol="screenRadius"/>
+<entry field="true" id="21" symbol="GOLDEN_HOUR_AM"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="29" symbol="NIGHT"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="34" symbol="HRImage"/>
+<entry field="true" id="48" symbol="J1970"/>
+<entry field="true" id="51" symbol="TIMES"/>
+<entry field="true" id="37" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="35" symbol="BLE"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="44" method="true" symbol="drawHR"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="57" symbol="sinM"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="19" symbol="SUNRISE"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="15" symbol="NIGHT_END"/>
+<entry field="true" id="28" symbol="NAUTICAL_DUSK"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8391489" module="true" symbol="Weather"/>
+<entry id="8389719" method="true" symbol="round"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="33" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="40" method="true" symbol="drawStep"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="26" symbol="BLUE_HOUR_PM"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="39" method="true" symbol="drawBattery"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="16" symbol="NAUTICAL_DAWN"/>
+<entry field="true" id="55" symbol="ds"/>
+<entry field="true" id="18" symbol="BLUE_HOUR_AM"/>
+<entry field="true" id="27" symbol="DUSK"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="25" symbol="SUNSET"/>
+<entry id="9" module="true" symbol="globals/SunCalc"/>
+<entry id="63" method="true" symbol="fromJulian"/>
+<entry id="38" method="true" symbol="drawWatchARC"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="60" symbol="sin2L"/>
+<entry id="43" method="true" symbol="drawSunriseSunset"/>
+<entry field="true" id="8388893" symbol="PI"/>
+<entry field="true" id="30" symbol="NUM_RESULTS"/>
+<entry field="true" id="52" symbol="lastD"/>
+<entry field="true" id="47" symbol="DAYS"/>
+<entry field="true" id="17" symbol="DAWN"/>
+<entry field="true" id="50" symbol="J0"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="64" method="true" symbol="calculate"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="53" symbol="lastLng"/>
+<entry field="true" id="62" symbol="Jnoon"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="36" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="24" symbol="SUNSET_START"/>
+<entry field="true" id="49" symbol="J2000"/>
+<entry id="66" method="true" symbol="printMoment"/>
+<entry field="true" id="61" symbol="dec"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="45" symbol="RAD"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="20" symbol="SUNRISE_END"/>
+<entry field="true" id="11" symbol="device"/>
+<entry id="32" module="true" symbol="Layouts"/>
+<entry id="13" object="true" symbol="CircleWatchFaceView"/>
+<entry id="65" method="true" symbol="momentToString"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="31" object="true" symbol="SunCalc"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="22" symbol="NOON"/>
+<entry id="42" method="true" symbol="drawBluetooth"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="54" symbol="n"/>
+<entry field="true" id="56" symbol="M"/>
+<entry field="true" id="59" symbol="L"/>
+<entry field="true" id="58" symbol="C"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435625" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435709" name="view" stackId="3" startPc="268435635"/>
+<entry endPc="268435709" name="clockTime" stackId="2" startPc="268435635"/>
+<entry arg="true" endPc="268435710" name="dc" stackId="1" startPc="268435631"/>
+<entry endPc="268436238" name="view" stackId="4" startPc="268435715"/>
+<entry endPc="268436238" name="timeString" stackId="3" startPc="268435715"/>
+<entry endPc="268436238" name="clockTime" stackId="2" startPc="268435715"/>
+<entry arg="true" endPc="268436239" name="dc" stackId="1" startPc="268435711"/>
+<entry endPc="268437601" name="arcPenWidth" stackId="6" startPc="268436259"/>
+<entry endPc="268437601" name="arcRadius" stackId="7" startPc="268436259"/>
+<entry arg="true" endPc="268437602" name="percentage" stackId="2" startPc="268436255"/>
+<entry arg="true" endPc="268437602" name="dc" stackId="1" startPc="268436255"/>
+<entry arg="true" endPc="268437602" name="limitColor" stackId="4" startPc="268436255"/>
+<entry arg="true" endPc="268437602" name="offset" stackId="5" startPc="268436255"/>
+<entry arg="true" endPc="268437602" name="arcColor" stackId="3" startPc="268436255"/>
+<entry endPc="268437716" name="batStat" stackId="2" startPc="268437607"/>
+<entry arg="true" endPc="268437717" name="dc" stackId="1" startPc="268437603"/>
+<entry endPc="268437880" name="activityInfo_steps" stackId="3" startPc="268437722"/>
+<entry endPc="268437880" name="activityInfo" stackId="2" startPc="268437722"/>
+<entry endPc="268437880" name="activityInfo_stepGoal" stackId="4" startPc="268437722"/>
+<entry endPc="268437880" name="steps_percentage" stackId="5" startPc="268437722"/>
+<entry arg="true" endPc="268437881" name="dc" stackId="1" startPc="268437718"/>
+<entry endPc="268438044" name="activityInfo_floorsClimbed" stackId="3" startPc="268437886"/>
+<entry endPc="268438044" name="activityInfo" stackId="2" startPc="268437886"/>
+<entry endPc="268438044" name="floor_percentage" stackId="5" startPc="268437886"/>
+<entry endPc="268438044" name="activityInfo_floorsClimbedGoal" stackId="4" startPc="268437886"/>
+<entry arg="true" endPc="268438045" name="dc" stackId="1" startPc="268437882"/>
+<entry endPc="268438114" name="view" stackId="2" startPc="268438050"/>
+<entry arg="true" endPc="268438115" name="dc" stackId="1" startPc="268438046"/>
+<entry endPc="268438610" name="view" stackId="8" startPc="268438322"/>
+<entry endPc="268438610" name="showTime" stackId="6" startPc="268438322"/>
+<entry endPc="268438610" name="timeString" stackId="7" startPc="268438322"/>
+<entry endPc="268438610" name="sunset" stackId="5" startPc="268438322"/>
+<entry endPc="268438610" name="sunrise" stackId="4" startPc="268438322"/>
+<entry endPc="268438613" name="hasLocation" stackId="3" startPc="268438168"/>
+<entry endPc="268438613" name="loc" stackId="2" startPc="268438168"/>
+<entry endPc="268438616" name="positionInfo" stackId="1" startPc="268438120"/>
+<entry endPc="268438834" name="view" stackId="3" startPc="268438644"/>
+<entry endPc="268438837" name="dataString" stackId="2" startPc="268438622"/>
+<entry arg="true" endPc="268438838" name="dc" stackId="1" startPc="268438618"/>
+<entry arg="true" endPc="268438866" name="state" stackId="1" startPc="268438862"/>
+<entry arg="true" endPc="268438871" name="state" stackId="1" startPc="268438867"/>
+<entry arg="true" endPc="268439023" name="j" stackId="1" startPc="268438966"/>
+<entry arg="true" endPc="268439096" name="a" stackId="1" startPc="268439024"/>
+<entry endPc="268440004" name="x" stackId="7" startPc="268439101"/>
+<entry endPc="268440004" name="lng" stackId="5" startPc="268439101"/>
+<entry endPc="268440004" name="ds" stackId="8" startPc="268439101"/>
+<entry endPc="268440004" name="Jrise" stackId="10" startPc="268439101"/>
+<entry endPc="268440004" name="Jset" stackId="9" startPc="268439101"/>
+<entry endPc="268440004" name="lat" stackId="4" startPc="268439101"/>
+<entry endPc="268440004" name="d" stackId="6" startPc="268439101"/>
+<entry arg="true" endPc="268440005" name="what" stackId="3" startPc="268439097"/>
+<entry arg="true" endPc="268440005" name="moment" stackId="1" startPc="268439097"/>
+<entry arg="true" endPc="268440005" name="pos" stackId="2" startPc="268439097"/>
+<entry endPc="268440308" name="hour" stackId="5" startPc="268440165"/>
+<entry endPc="268440460" name="tinfo" stackId="3" startPc="268440010"/>
+<entry endPc="268440460" name="today" stackId="6" startPc="268440010"/>
+<entry endPc="268440460" name="text" stackId="4" startPc="268440010"/>
+<entry endPc="268440460" name="days" stackId="7" startPc="268440010"/>
+<entry arg="true" endPc="268440461" name="is24Hour" stackId="2" startPc="268440006"/>
+<entry arg="true" endPc="268440461" name="moment" stackId="1" startPc="268440006"/>
+<entry endPc="268440665" name="info" stackId="2" startPc="268440466"/>
+<entry arg="true" endPc="268440666" name="moment" stackId="1" startPc="268440462"/>
+<entry endPc="268441726" name="rez_cmp_local_text_TimeLabel" stackId="4" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_bitmap_HRImage" stackId="2" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_text_DateLabel" stackId="5" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_text_SecLabel" stackId="6" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_bitmap_BLE" stackId="3" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_text_SunRiseSet" stackId="7" startPc="268440679"/>
+<entry endPc="268441726" name="rez_cmp_local_text_HRLabel" stackId="8" startPc="268440679"/>
+<entry arg="true" endPc="268441727" name="dc" stackId="1" startPc="268440667"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="HRImage"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BLE"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="342" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="421" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="476" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="507" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="538" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="577" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="608" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/CircleWatchFaceApp" offset="647" parentId="globals" symbolId="CircleWatchFaceApp" type="class"/>
+<dataEntry label="globals/CircleWatchFaceView" offset="718" parentId="globals" symbolId="CircleWatchFaceView" type="class"/>
+<dataEntry label="globals/SunCalc" offset="877" parentId="globals" symbolId="SunCalc" type="class"/>
+<dataEntry label="globals/SunCalc/statics" offset="1108" parentId="globals" symbolId="globals/SunCalc" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="CircleWatchFaceView" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435625" name="onLayout" parent="CircleWatchFaceView" startPc="268435479">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435630" name="onShow" parent="CircleWatchFaceView" startPc="268435626">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435710" name="onPartialUpdate" parent="CircleWatchFaceView" startPc="268435631">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436239" name="onUpdate" parent="CircleWatchFaceView" startPc="268435711">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436244" name="onHide" parent="CircleWatchFaceView" startPc="268436240">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436249" name="onExitSleep" parent="CircleWatchFaceView" startPc="268436245">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436254" name="onEnterSleep" parent="CircleWatchFaceView" startPc="268436250">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437602" name="drawWatchARC" parent="CircleWatchFaceView" startPc="268436255">
+<param id="dc"/>
+<param id="percentage"/>
+<param id="arcColor"/>
+<param id="limitColor"/>
+<param id="offset"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437717" name="drawBattery" parent="CircleWatchFaceView" startPc="268437603">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437881" name="drawStep" parent="CircleWatchFaceView" startPc="268437718">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438045" name="drawFloor" parent="CircleWatchFaceView" startPc="268437882">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438115" name="drawBluetooth" parent="CircleWatchFaceView" startPc="268438046">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438617" name="drawSunriseSunset" parent="CircleWatchFaceView" startPc="268438116">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438838" name="drawHR" parent="CircleWatchFaceView" startPc="268438618">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441796" name="&lt;init&gt;" parent="CircleWatchFaceView" startPc="268441778">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438861" name="initialize" parent="CircleWatchFaceApp" startPc="268438839">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438866" name="onStart" parent="CircleWatchFaceApp" startPc="268438862">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438871" name="onStop" parent="CircleWatchFaceApp" startPc="268438867">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438913" name="getInitialView" parent="CircleWatchFaceApp" startPc="268438872">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441777" name="&lt;init&gt;" parent="CircleWatchFaceApp" startPc="268441759">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438942" name="getApp" startPc="268438914">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438965" name="initialize" parent="SunCalc" startPc="268438943">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439023" name="fromJulian" parent="SunCalc" startPc="268438966">
+<param id="j"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439096" name="round" parent="SunCalc" startPc="268439024">
+<param id="a"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440005" name="calculate" parent="SunCalc" startPc="268439097">
+<param id="moment"/>
+<param id="pos"/>
+<param id="what"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440461" name="momentToString" parent="SunCalc" startPc="268440006">
+<param id="moment"/>
+<param id="is24Hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440666" name="printMoment" parent="SunCalc" startPc="268440462">
+<param id="moment"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442227" name="&lt;init&gt;" parent="globals/SunCalc" startPc="268442227">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442226" name="&lt;init&gt;" parent="SunCalc" startPc="268441797">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441753" name="&lt;init&gt;" parent="Drawables" startPc="268441753">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441755" name="&lt;init&gt;" parent="Fonts" startPc="268441755">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441757" name="&lt;init&gt;" parent="JsonData" startPc="268441757">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441727" name="WatchFace" parent="Layouts" startPc="268440667">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441756" name="&lt;init&gt;" parent="Layouts" startPc="268441756">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441754" name="&lt;init&gt;" parent="Menus" startPc="268441754">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441758" name="&lt;init&gt;" parent="Strings" startPc="268441758">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441752" name="&lt;init&gt;" parent="Rez" startPc="268441729">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
