@@ -12,6 +12,12 @@ using Toybox.Time.Gregorian;
 
 var width, height, shape, device, screenRadius;
 
+var COLOR_BATTERY = Graphics.COLOR_GREEN;
+var COLOR_BATTERY_LOW = Graphics.COLOR_RED;
+var COLOR_STEPS = Graphics.COLOR_BLUE;
+var COLOR_FLOORS = Graphics.COLOR_PINK;
+var COLOR_RECOVERYTIME = Graphics.COLOR_PINK;
+
 
 class CircleWatchFaceView extends WatchUi.WatchFace {
 
@@ -85,7 +91,8 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
 
         drawStep(dc);
         drawBattery(dc);
-        drawFloor(dc);
+        drawTimeToRecovery(dc);
+        // drawFloor(dc);
         drawHR(dc);
         drawBluetooth(dc);
 
@@ -160,7 +167,7 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
         if(batStat<1){batStat=1;}
 
         // drawARC(dc, batStat, Graphics.COLOR_GREEN, Graphics.COLOR_RED, 0);
-        drawWatchARC(dc, batStat,Graphics.COLOR_GREEN , Graphics.COLOR_RED, 0);
+        drawWatchARC(dc, batStat,COLOR_BATTERY , COLOR_BATTERY_LOW, 0);
         
  
         
@@ -174,22 +181,40 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
         steps_percentage=steps_percentage*100;
         if(steps_percentage>100){steps_percentage=100;}
         if(steps_percentage<1){steps_percentage=1;}
-        drawWatchARC(dc, steps_percentage, Graphics.COLOR_BLUE, Graphics.COLOR_BLUE, 7);
+        drawWatchARC(dc, steps_percentage, COLOR_STEPS, COLOR_STEPS, 7);
  
     }
 
 
-    function drawFloor(dc) {
+    // function drawFloor(dc) {
+    //     var activityInfo;
+    //     activityInfo = ActivityMonitor.getInfo();
+    //     var activityInfo_floorsClimbed as Double.Number = activityInfo.floorsClimbed.toDouble();
+    //     var activityInfo_floorsClimbedGoal as Double.Number = activityInfo.floorsClimbedGoal.toDouble();
+    //     var floor_percentage as Double.Number = (activityInfo_floorsClimbed/activityInfo_floorsClimbedGoal);
+    //     floor_percentage=floor_percentage*100;
+    //     if(floor_percentage>100){floor_percentage=100;}
+    //     if(floor_percentage<1){floor_percentage=1;}
+    //     drawWatchARC(dc, floor_percentage, COLOR_FLOORS, COLOR_FLOORS, 15);
+    // }
+    
+    function drawTimeToRecovery(dc) {
         var activityInfo;
         activityInfo = ActivityMonitor.getInfo();
-        var activityInfo_floorsClimbed as Double.Number = activityInfo.floorsClimbed.toDouble();
-        var activityInfo_floorsClimbedGoal as Double.Number = activityInfo.floorsClimbedGoal.toDouble();
-        var floor_percentage as Double.Number = (activityInfo_floorsClimbed/activityInfo_floorsClimbedGoal);
-        floor_percentage=floor_percentage*100;
-        if(floor_percentage>100){floor_percentage=100;}
-        if(floor_percentage<1){floor_percentage=1;}
-        drawWatchARC(dc, floor_percentage, Graphics.COLOR_PINK, Graphics.COLOR_PINK, 15);
+        var activityInfo_timeToRecovery as Double.Number = activityInfo.timeToRecovery.toDouble();
+        var activityInfo_timeToRecoveryGoal as Double.Number = (48).toDouble();
+        var timeToRecovery_percentage as Double.Number = (activityInfo_timeToRecovery/activityInfo_timeToRecoveryGoal);
+        timeToRecovery_percentage=timeToRecovery_percentage*100;
+        timeToRecovery_percentage=100-timeToRecovery_percentage;
+        if(timeToRecovery_percentage>100){timeToRecovery_percentage=100;}
+        if(timeToRecovery_percentage<1){timeToRecovery_percentage=1;}
+        
+        var loc_COLOR_RECOVERYTIME=COLOR_RECOVERYTIME;
+        if(timeToRecovery_percentage>99){loc_COLOR_RECOVERYTIME=COLOR_YELLOW;}
+
+        drawWatchARC(dc, timeToRecovery_percentage, loc_COLOR_RECOVERYTIME, loc_COLOR_RECOVERYTIME, 15);
     }
+    
 
     
     function drawBluetooth(dc) {
