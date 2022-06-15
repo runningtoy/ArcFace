@@ -24,6 +24,7 @@ var COLOR_RECOVERYTIME = 0xffff00;
 class CircleWatchFaceView extends WatchUi.WatchFace {
 
     function initialize() {
+        var partialUpdates = (Toybox.WatchUi.WatchFace has :onPartialUpdate);
         WatchFace.initialize();
     }
 
@@ -45,16 +46,36 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
     function onShow() as Void {
     }
 
-    function onPartialUpdate(dc) {
-        var clockTime = System.getClockTime();
-        // if (dataField == exactTime) {
-        // WatchUi.requestUpdate();
-        // }
-        // else if (clockTime.sec == 30) {
-        // WatchUi.requestUpdate();
-        // }
+    function onPartialUpdate(dc){
+        dc.setClip(107, 166, 50, 30);
+        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
+        dc.fillRectangle(107, 166, 50, 30);
         var view = View.findDrawableById("SecLabel") as Text;
-        view.setText(clockTime.sec.format("%02d"));
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_WHITE);
+        var seconds=System.getClockTime().sec;
+        view.setText(seconds.format("%02d"));
+        view.draw(dc);
+
+        if(seconds%5==0){
+            dc.setClip(109, 40, 50, 25);
+            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
+            dc.fillRectangle(109, 40, 50, 25);
+            dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_WHITE);
+            drawHRValuePartialUpdate(dc);
+        }
+
+        
+        
+       
+        // var clockTime = System.getClockTime();
+        // // if (dataField == exactTime) {
+        // // WatchUi.requestUpdate();
+        // // }
+        // // else if (clockTime.sec == 30) {
+        // // WatchUi.requestUpdate();
+        // // }
+        // var view = View.findDrawableById("SecLabel") as Text;
+        // view.setText(clockTime.sec.format("%02d"));
     }
 
     // Update the view
@@ -87,8 +108,7 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
         view = View.findDrawableById("SecLabel") as Text;
         view.setText(clockTime.sec.format("%02d"));
         
-        
-        // Call the parent onUpdate function to redraw the layout
+         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
 
         drawStep(dc);
@@ -97,7 +117,7 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
         // drawFloor(dc);
         drawHR(dc);
         drawBluetooth(dc);
-
+             
     }
 
     // Called when this View is removed from the screen. Save the
@@ -263,6 +283,19 @@ class CircleWatchFaceView extends WatchUi.WatchFace {
                 view.setVisible(false);
                 view = View.findDrawableById("HRLabel") as Text;
                 view.setVisible(false);
+            }
+          }
+        
+    }
+
+    function drawHRValuePartialUpdate(dc){
+        var dataString = "";
+        if (ActivityMonitor has :getHeartRateHistory) {
+            dataString = Activity.getActivityInfo().currentHeartRate;
+            if(dataString != null) {
+                var view = View.findDrawableById("HRLabel") as Text;
+                view.setText(dataString.format("%03d"));
+                view.draw(dc);
             }
           }
         
