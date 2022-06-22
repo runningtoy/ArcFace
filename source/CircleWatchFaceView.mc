@@ -14,7 +14,7 @@ var width, height, shape, device, screenRadius;
 
 var COLOR_BATTERY = 0x00ff55;
 var COLOR_BATTERY_LOW = 0xff5500;
-var COLOR_STEPS = 0xaa00ff;
+var COLOR_STEPS = 0xffffff;
 var COLOR_FLOORS = 0xff55aa;
 var COLOR_RECOVERYTIME = 0xffff00;
 var partialUpdates = true;
